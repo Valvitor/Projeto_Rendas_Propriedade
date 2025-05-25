@@ -45,3 +45,5 @@ for (arquivo in arquivos_r) {
 }
 
 message("Estrutura do projeto criada com sucesso!")
+
+#Teste versionamento 1
